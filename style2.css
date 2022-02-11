@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&family=Open+Sans:wght@800&family=Satisfy&display=swap');
+.navbar{
+    font-family: 'Festive', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Satisfy', cursive;
+    
+}
+body{
+    background-image: url(https://cdn.wallpapersafari.com/87/18/0fgl4D.jpg);
+}
+h1{
+    font-family: 'Festive', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Satisfy', cursive;
+    color: #ffea00;
+    border: 2px solid #ffea00;
+    background-color: #000000;
+}
+.t1{
+    color: #ffea00;
+    font-family: 'Festive', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Satisfy', cursive;
+    background-color: black;
+    
+}
